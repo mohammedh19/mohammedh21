@@ -1,0 +1,24 @@
+p1{
+    background-color: cyan;
+    font-family:courier ;
+    color: red;
+    text-align: center;
+}
+p {
+    background-color:black;
+    font-family:courier ;
+    color: springgreen;
+    border: 2px solid blue;
+    text-align: center;
+}
+h1 {
+    font-size: 300%;
+    text-align: center;
+}
+
+body {
+    background-image: url('mhm.jpg');
+  }
+h2 {
+    font-size: 150%; 
+}  
